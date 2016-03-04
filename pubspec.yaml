@@ -1,0 +1,5 @@
+name: keyboard_shortcut_handler
+version: 0.0.0
+author: Christopher Best <bestchris@gmail.com>
+description: Partial port of ui.KeyboardShortcutHandler in Google Closure Library
+homepage: https://github.com/sirctseb/KeyboardShortcutHandler
